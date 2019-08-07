@@ -1,0 +1,53 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.topbar{
+text-align: center;
+height: 50px;
+background-color: aquamarine;
+}
+.logo{
+    padding: 15px;
+}
+h1{
+    position: relative;
+    right: -132px;
+    text-align: left;
+       padding: 7px;
+}
+p{
+    display: flex;
+    text-align: left;
+         position: relative;
+    margin: -11px;
+    right: -239px;
+    margin-left: -93px;
+    float: left;
+}
+.fake{
+    height: 200px;
+    width: 50%;
+    background-color: gray;
+}
+h2{
+    position: relative; 
+    right:-7px;
+}
+.fakei{
+    height: 200px;
+    width: 50%;
+    background-color: gray;
+}
+.col-md-6{
+    right: -103px;
+}
+.profile>h1{
+    float: left;
+    right: 14px;
+}
+.profile>p{
+    display: flex;
+    text-align: left;
+    right: -110px;
+}

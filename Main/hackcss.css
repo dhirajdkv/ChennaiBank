@@ -1,0 +1,11 @@
+
+        .navbar {
+            margin: 0;
+            padding: 0;
+                   }
+        .bord{
+            border: 1px solid black;
+            height: 50%;
+            width: 50%;
+            margin: 57px;
+        }
